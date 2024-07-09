@@ -10,6 +10,7 @@ Part 3: Designing the User Interface
 In the third part, you create an attractive and user-friendly interface to display the weather information. Using SwiftUI, you design views to show various weather data points, such as current temperature, weather conditions, and forecasts. This part emphasizes creating a visually appealing layout that enhances the user experience.
 
 Tools and Technologies
+
 SwiftUI: For building the user interface with a declarative syntax.
 CoreLocation: To access the user's current location.
 OpenWeather API: To retrieve weather data based on location coordinates.
