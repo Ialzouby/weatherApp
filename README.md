@@ -1,7 +1,7 @@
 <h1 align="center">☀️ WeatherApp</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="WeatherApp Logo">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVwYm96bmlscDM1NHdtc3R4aTFkYjd6cnYwMXB2Nm9qamdhZnJpZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WOfGfEQwDzdGcXYmrn/giphy.gif" alt="WeatherApp Logo">
 </p>
 
 <p>Welcome to the <strong>WeatherApp</strong> project! This iOS application provides real-time weather information based on the user's current location. Built with SwiftUI and CoreLocation, WeatherApp offers a sleek and intuitive interface for accessing up-to-date weather data.</p>
